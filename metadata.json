@@ -1,0 +1,6 @@
+{
+  "name": "JustMelDetail - Mobile Detailing Simulator & Intake",
+  "description": "JustMelDetail mobile auto & equestrian trailer detailing in Aiken, SC by Jamel Tyler. Features VIN software for insurance & resale documentation, wax tracking, and automated 4-stage booking verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
